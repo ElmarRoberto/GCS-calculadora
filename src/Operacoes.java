@@ -11,4 +11,9 @@ public class Operacoes {
 		return num1/num2;
 
 	}
+
+	public double subtracao (double numero1, double numero 2){
+		return numero1 - numero2;
+	}
+
 }
